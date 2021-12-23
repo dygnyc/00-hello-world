@@ -1,2 +1,2 @@
-# cplusplus
-first repository for noob c++ projects
+# C++ hello world
+
